@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This code sample demonstrates a one-to-one and group video call application built with [Video SDK RTC Javascript SDK](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/javascript-sdk)
+This code sample demonstrates a one-to-one and group video call application built with [CallConverse](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/javascript-sdk)
 
 - Built for serverless video calling experience.
 - Scale it upto 5,000 participants with low code.
@@ -31,15 +31,7 @@ You must have the following installed:
 
 1. Run the authentication server
 
-   Follow instructions from [videosdk-rtc-nodejs-sdk-example](https://github.com/videosdk-live/videosdk-rtc-nodejs-sdk-example) to run the authentication server.
-
 2. Clone the repo
-
-   ```sh
-   git clone https://github.com/videosdk-live/videosdk-rtc-javascript-sdk-example.git
-
-   cd videosdk-rtc-javascript-sdk-example
-   ```
 
 3. Create a new file config.js and Copy the config.example.js file's data to config.js file
 
